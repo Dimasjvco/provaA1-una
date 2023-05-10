@@ -2,7 +2,7 @@
 provaA1-una
 Ano Bissexto
 
-# Quesão:
+# Questão:
 
 O ano bissexto é o ano que possui 366 dias em comparação ao ano normal, com 365 dias.
 
