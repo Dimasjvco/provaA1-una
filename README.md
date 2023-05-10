@@ -59,8 +59,8 @@ Tipo requisito
 
 Descrição
 
-Req01 | Entrada | Solicitar o ano para calculo
-Req02	| Processamento |	Fazer os calculos para verificar se o ano é ou não bissexto considere as regras acima.
+Req01 | Entrada | Solicitar o ano para calculo<br>
+Req02	| Processamento |	Fazer os calculos para verificar se o ano é ou não bissexto considere as regras acima.<br>
 Req03	| Saída	| Imprimir "Ano BISSEXTO" se atender os requisitos ou "Não é Bissexto" caso contrário.
  
 Para te auxiliar a avaliar seu código, faça os testes abaixo:
