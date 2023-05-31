@@ -1,7 +1,7 @@
 # provaA1-una
 provaA1-una<br>
 Ano Bissexto<br>
-By: Felipe Claver Diniz[VS Code]
+By: João Victor Carvalho Dimas de oliveira[VS Code]
 
 # Questão:
 
